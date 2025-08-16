@@ -239,8 +239,7 @@ The application provides real-time performance analysis:
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/dsa-learning-hub/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/dsa-learning-hub/discussions)
-- 📧 **Email**: your.email@example.com
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 📧 **Email**: kushgulati150@gmail.com
 
 ---
 
@@ -253,3 +252,4 @@ The application provides real-time performance analysis:
 Made with ❤️ for the learning community
 
 </div>
+
